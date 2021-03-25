@@ -6,7 +6,7 @@ module.exports = {
   "addons": [
     "@storybook/addon-links",
     "@storybook/addon-essentials",
-    "@storybook/addon-controls"
-
+    "@storybook/addon-controls",
+    "storybook-addon-responsive-views/register"
   ]
 }
